@@ -1,1 +1,1 @@
-python3 src/main.py "/ssb_resume/"
+python3 src/main.py "/ssg_resume/"
